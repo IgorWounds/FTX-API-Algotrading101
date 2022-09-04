@@ -1,9 +1,12 @@
 # FTX-API-Algotrading101
-FTX API - A Complete Guide - Algotrading101
+[FTX API - A Complete Guide](https://algotrading101.com/learn/ftx-api-guide/) - Algotrading101
+
+## Table of contents
+
+<ol><li><a href="https://algotrading101.com/learn/ftx-api-guide/#what-is-ftx-api">What is FTX API?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#what-is-ftx">What is FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#free">Is FTX free?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#pros">Why should I use FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#cons">Why shouldn’t I use the FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#countries">Is FTX available in my country?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#alternatives">What are the alternatives to using FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#clients">What clients are available for the FIX API?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#getting-started">How to get started with FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#price-data">How to get Price Data with FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#futures-data">How to get Futures Data with FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#historical-data">How to get historical data with FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#technical-indicators">How to access technical indicators such as the 20 SMA with the FTX API?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#order-book-data">How to get Order Book data with FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#how-to-get-trades-with-ftx">How to get Trades with FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#leveraged-tokens">How to get Leveraged Tokens data with FTX?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#example1">How to execute a trade on ETH when BTC hits a certain price with the FTX API?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#example2">How to execute an ETH trade when BTC moves 5% in the last 5 minutes with the FTX API?</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#more-about-ftx">More about FTX</a></li><li><a href="https://algotrading101.com/learn/ftx-api-guide/#full-code">Full code</a></li></ol>
 
 -----------
-Info
------------
+## Info
 
 | Author | Igor Radovanovic
 --- | ---
